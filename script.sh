@@ -27,3 +27,5 @@ echo "Outra forma de imprimir a variável:"
 nome="João"
 
 printf $nome
+
+echo "inserindo comentário para testar o git commit"
